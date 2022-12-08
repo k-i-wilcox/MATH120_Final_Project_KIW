@@ -1,1 +1,2 @@
 # MATH120_Final_Project_KIW
+This final project for Math 120 uses the data from my master's research to practice writing functions, for loops, and creating animated figures. The project is broken into two parts, a google colab notebook and a Jupyter notebook. The google colab notebook has a series a functions that calculate the cumulative grain size from sieved sediment data and also finds the D10, D16, D50, D84, and D95 in mm. The Jupyter notebook explores how to create an animated figure using plotly express.  
